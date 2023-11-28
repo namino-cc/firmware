@@ -1,0 +1,18 @@
+changelog ROSSO
+
+
+rev 0x0003 RTD calibration added
+rev 0x0004 Added mark on flash if device is calibrated
+rev 0x0005 Added PTC managment
+rev 0x0006 fixed PTO managment
+rev 0x0007 fixed LED managment 
+
+
+
+
+changelog ARANCIO
+
+
+rev 0x0008	Added mark on flash if device is calibrated
+rev 0x0009	fixed PTO managment
+rev 0x000A 	fixed LED managment 
